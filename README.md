@@ -67,7 +67,7 @@ The [variance][variance] for a [normal][normal-distribution] random variable wit
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@v0.2.0-deno/mod.js';
 ```
 
 #### variance( mu, sigma )
@@ -124,7 +124,7 @@ y = variance( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@v0.2.0-deno/mod.js';
 
 var sigma;
 var mu;
