@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-06)
+## Unreleased (2025-04-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f3c9340`](https://github.com/stdlib-js/stdlib/commit/f3c9340d77cca871bb1b43860a29c5c3a19ca639) - **chore:** clean-up _(by Athan Reines)_
 -   [`aa9d5fc`](https://github.com/stdlib-js/stdlib/commit/aa9d5fc3127ffb55e65f99f7c1c3b11eeb75af15) - **feat:** add C implementation for `stats/base/dists/normal/variance` [(#3953)](https://github.com/stdlib-js/stdlib/pull/3953) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
@@ -47,9 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
