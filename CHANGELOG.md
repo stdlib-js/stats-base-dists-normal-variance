@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-20)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3784](https://github.com/stdlib-js/stdlib/issues/3784)
+[#3784](https://github.com/stdlib-js/stdlib/issues/3784), [#9824](https://github.com/stdlib-js/stdlib/issues/9824)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`6f5aec7`](https://github.com/stdlib-js/stdlib/commit/6f5aec7cf9da6150245618637de7b50bc7594993) - **test:** remove duplicate test cases in normal variance [(#9826)](https://github.com/stdlib-js/stdlib/pull/9826) _(by Geo Daoyu)_
 -   [`6fe0761`](https://github.com/stdlib-js/stdlib/commit/6fe0761c9b399fae0e81992d5dda665cebaee019) - **docs:** replace manual `for` loop in examples [(#9055)](https://github.com/stdlib-js/stdlib/pull/9055) _(by Harsh Yadav)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
@@ -51,10 +52,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Geo Daoyu
 -   Harsh Yadav
 -   Philipp Burckhardt
 
