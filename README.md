@@ -67,7 +67,7 @@ The [variance][variance] for a [normal][normal-distribution] random variable wit
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@v0.3.0-esm/index.mjs';
 ```
 
 #### variance( mu, sigma )
@@ -130,7 +130,7 @@ y = variance( 0.0, -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-variance@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
